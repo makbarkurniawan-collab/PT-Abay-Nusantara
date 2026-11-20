@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:LOCALAPPDATA}\\Programs\\PHP\\8.2.30;${env:PATH}"
+    }
+}
